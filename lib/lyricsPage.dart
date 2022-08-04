@@ -13,7 +13,7 @@ class lyricsPage extends StatefulWidget {
 class _lyricsPageState extends State<lyricsPage> {
   final _artName = TextEditingController();
   final _songName = TextEditingController();
-  String key = 'a498a7aa96msh88f9efb0833c935p1dd7f8jsne64f7b887e8e';
+  String key = 'YOUR_API-KEY-HERE';
   String MusicLyrics = '';
   String artistName = '';
   String songName = '';
